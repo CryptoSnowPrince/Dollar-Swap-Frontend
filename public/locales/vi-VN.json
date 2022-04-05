@@ -1204,7 +1204,7 @@
   "Small 3d dollar": "Dollar 3d nhỏ",
   "%dollarPrizeInUsd% in DOLLAR prizes this round": "Giải thưởng %dollarPrizeInUsd% tính theo DOLLAR trong vòng này",
   "Buy tickets with DOLLAR, win DOLLAR if your numbers match": "Mua vé bằng DOLLAR, thắng DOLLAR nếu các số của bạn khớp",
-  "$%bnbWonInUsd% in TRM won so far": "Hơn $%bnbWonInUsd% tính theo TRM đã thắng tính đến hiện tại",
+  "$%trmWonInUsd% in TRM won so far": "Hơn $%trmWonInUsd% tính theo TRM đã thắng tính đến hiện tại",
   "Will TRM price rise or fall? guess correctly to win!": "Liệu giá TRM sẽ tăng hay giảm? Đoán đúng để chiến thắng!",
   "And those users are now entrusting the platform with over $%tvl% in funds.": "Và những người dùng đó hiện đang đặt nguồn vốn $%tvl% vào nền tảng.",
   "Trusted with billions.": "Được tin tưởng với nhiều tỷ.",

@@ -1204,7 +1204,7 @@
   "Small 3d dollar": "Pieni 3D-dollar",
   "%dollarPrizeInUsd% in DOLLAR prizes this round": "%dollarPrizeInUsd% DOLLAR-palkintoina tällä kierroksella",
   "Buy tickets with DOLLAR, win DOLLAR if your numbers match": "Osta lippuja DOLLARlla, voita DOLLARa, jos numerosi osuvat",
-  "$%bnbWonInUsd% in TRM won so far": "%bnbWonInUsd% dollaria TRM:nä voitettu tähän mennessä",
+  "$%trmWonInUsd% in TRM won so far": "%trmWonInUsd% dollaria TRM:nä voitettu tähän mennessä",
   "Will TRM price rise or fall? guess correctly to win!": "Nouseeko vai laskeeko TRM:n hinta? Arvaa oikein ja voita!",
   "And those users are now entrusting the platform with over $%tvl% in funds.": "Ja nämä käyttäjät ovat nyt sijoittaneet alustalla yli %tvl% dollaria varoja.",
   "Trusted with billions.": "Luotettu miljardien edestä.",

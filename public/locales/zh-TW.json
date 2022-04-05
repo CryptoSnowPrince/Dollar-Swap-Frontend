@@ -1204,7 +1204,7 @@
   "Small 3d dollar": "小型 3D Dollar",
   "%dollarPrizeInUsd% in DOLLAR prizes this round": "%dollarPrizeInUsd% 本回合 DOLLAR 獎金",
   "Buy tickets with DOLLAR, win DOLLAR if your numbers match": "用 DOLLAR 購買票券，號碼相符即可贏取 DOLLAR",
-  "$%bnbWonInUsd% in TRM won so far": "到目前為止已贏得 $%bnbWonInUsd% 的 TRM",
+  "$%trmWonInUsd% in TRM won so far": "到目前為止已贏得 $%trmWonInUsd% 的 TRM",
   "Will TRM price rise or fall? guess correctly to win!": "TRM 價格是會上漲還是下跌？猜對即可中獎！",
   "And those users are now entrusting the platform with over $%tvl% in funds.": "這些使用者現在正在將超過 $%tvl% 的資金委託給平台。",
   "Trusted with billions.": "備受數十億使用者信賴。",

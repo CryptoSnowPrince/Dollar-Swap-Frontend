@@ -1204,7 +1204,7 @@
   "Small 3d dollar": "Küçük 3b dollar",
   "%dollarPrizeInUsd% in DOLLAR prizes this round": "Bu tur %dollarPrizeInUsd% DOLLAR ödülü var",
   "Buy tickets with DOLLAR, win DOLLAR if your numbers match": "Biletini DOLLAR ile satın al, sayıların eşleşirse DOLLAR kazan",
-  "$%bnbWonInUsd% in TRM won so far": "Şimdiye kadar $%bnbWonInUsd% TRM kazanıldı",
+  "$%trmWonInUsd% in TRM won so far": "Şimdiye kadar $%trmWonInUsd% TRM kazanıldı",
   "Will TRM price rise or fall? guess correctly to win!": "TRM fiyatı yükselecek mi düşecek mi? Kazanmak için doğru tahmin et!",
   "And those users are now entrusting the platform with over $%tvl% in funds.": "Bu kullanıcılar, artık platforma %%tvl%'den fazla fon emanet ediyor.",
   "Trusted with billions.": "Milyarlarca insan güveniyor.",

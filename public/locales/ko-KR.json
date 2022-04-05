@@ -1204,7 +1204,7 @@
   "Small 3d dollar": "소형 3D Dollar",
   "%dollarPrizeInUsd% in DOLLAR prizes this round": "%dollarPrizeInUsd% 이 라운드 DOLLAR 상금",
   "Buy tickets with DOLLAR, win DOLLAR if your numbers match": "DOLLAR로 티켓을 구입하고, 숫자가 일치하면 DOLLAR 획득",
-  "$%bnbWonInUsd% in TRM won so far": "$%bnbWonInUsd%, 지금까지 획득 TRM",
+  "$%trmWonInUsd% in TRM won so far": "$%trmWonInUsd%, 지금까지 획득 TRM",
   "Will TRM price rise or fall? guess correctly to win!": "TRM 가격이 오를까요, 내릴까요? 맞추고 당첨!",
   "And those users are now entrusting the platform with over $%tvl% in funds.": "그리고 이러한 사용자들이 현재 $%tvl% 이상의 자금을 이 플랫폼에 위탁하고 있습니다.",
   "Trusted with billions.": "수십억이 위탁되었습니다.",

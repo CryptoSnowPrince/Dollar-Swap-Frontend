@@ -1204,7 +1204,7 @@
   "Small 3d dollar": "小さい3DのDollar",
   "%dollarPrizeInUsd% in DOLLAR prizes this round": "%dollarPrizeInUsd%相当のDOLLARが現ラウンドの賞金",
   "Buy tickets with DOLLAR, win DOLLAR if your numbers match": "DOLLARでロトチケットを購入し、数字を一致させて賞金DOLLARを入手しよう",
-  "$%bnbWonInUsd% in TRM won so far": "$%bnbWonInUsd%相当のTRMが獲得されました",
+  "$%trmWonInUsd% in TRM won so far": "$%trmWonInUsd%相当のTRMが獲得されました",
   "Will TRM price rise or fall? guess correctly to win!": "TRM価格は上がるのか、下がるのか？的中させて勝とう！",
   "And those users are now entrusting the platform with over $%tvl% in funds.": "プラットフォームでは$%tvl%以上のユーザーの資金が運用されています。",
   "Trusted with billions.": "巨億の実績。",

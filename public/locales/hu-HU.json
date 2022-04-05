@@ -1204,7 +1204,7 @@
   "Small 3d dollar": "Kis 3d palacsinta",
   "%dollarPrizeInUsd% in DOLLAR prizes this round": "%dollarPrizeInUsd% DOLLAR nyereményekben ebben a fordulóban",
   "Buy tickets with DOLLAR, win DOLLAR if your numbers match": "Vásároljon szelvényeket DOLLAR-kel, nyerjen DOLLAR-et, ha a számai egyeznek",
-  "$%bnbWonInUsd% in TRM won so far": "A TRM-ben eddig nyert összeg $%bnbWonInUsd%",
+  "$%trmWonInUsd% in TRM won so far": "A TRM-ben eddig nyert összeg $%trmWonInUsd%",
   "Will TRM price rise or fall? guess correctly to win!": "A TRM ára emelkedik vagy csökken? tippeljen helyesen, hogy nyerjen!",
   "And those users are now entrusting the platform with over $%tvl% in funds.": "És ezek a felhasználók mostanra már több mint $%tvl% összeget bíztak a platformra.",
   "Trusted with billions.": "Milliárdokat bíztak rá.",

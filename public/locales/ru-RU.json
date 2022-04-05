@@ -1204,7 +1204,7 @@
   "Small 3d dollar": "Маленький объемный Dollar",
   "%dollarPrizeInUsd% in DOLLAR prizes this round": "В этом раунде %dollarPrizeInUsd% в призах DOLLAR",
   "Buy tickets with DOLLAR, win DOLLAR if your numbers match": "Покупайте билеты с DOLLAR, выигрывайте DOLLAR, если ваши номера совпадают",
-  "$%bnbWonInUsd% in TRM won so far": "Пока выигрыш составляет $%bnbWonInUsd% в TRM",
+  "$%trmWonInUsd% in TRM won so far": "Пока выигрыш составляет $%trmWonInUsd% в TRM",
   "Will TRM price rise or fall? guess correctly to win!": "Цена на TRM будет расти или падать? Правильный ответ выигрышный!",
   "And those users are now entrusting the platform with over $%tvl% in funds.": "И эти пользователи сейчас доверяют платформе средства на сумму более %tvl% долларов.",
   "Trusted with billions.": "Пользуется доверием миллиардов.",

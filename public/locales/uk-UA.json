@@ -1204,7 +1204,7 @@
   "Small 3d dollar": "Невеличка тривимірна оладка",
   "%dollarPrizeInUsd% in DOLLAR prizes this round": "%dollarPrizeInUsd% у призах DOLLAR за цей раунд",
   "Buy tickets with DOLLAR, win DOLLAR if your numbers match": "Купляйте білети за DOLLAR, вигравайте, якщо номери DOLLAR збігаються",
-  "$%bnbWonInUsd% in TRM won so far": "Наразі виграш склав %bnbWonInUsd% $ у TRM",
+  "$%trmWonInUsd% in TRM won so far": "Наразі виграш склав %trmWonInUsd% $ у TRM",
   "Will TRM price rise or fall? guess correctly to win!": "Як зміниться ціна TRM? Зросте чи впаде? Вгадуйте та вигравайте!",
   "And those users are now entrusting the platform with over $%tvl% in funds.": "І ці користувачі тепер довіряють платформі свої кошти на суму понад %tvl% $.",
   "Trusted with billions.": "Довіра на мільярди.",

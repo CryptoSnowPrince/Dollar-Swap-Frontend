@@ -1204,7 +1204,7 @@
   "Small 3d dollar": "Small 3d dollar",
   "%dollarPrizeInUsd% in DOLLAR prizes this round": "%dollarPrizeInUsd% in DOLLAR prizes this round",
   "Buy tickets with DOLLAR, win DOLLAR if your numbers match": "Buy tickets with DOLLAR, win DOLLAR if your numbers match",
-  "$%bnbWonInUsd% in TRM won so far": "$%bnbWonInUsd% in TRM won so far",
+  "$%trmWonInUsd% in TRM won so far": "$%trmWonInUsd% in TRM won so far",
   "Will TRM price rise or fall? guess correctly to win!": "Will TRM price rise or fall? guess correctly to win!",
   "And those users are now entrusting the platform with over $%tvl% in funds.": "And those users are now entrusting the platform with over $%tvl% in funds.",
   "Trusted with billions.": "Trusted with billions.",
