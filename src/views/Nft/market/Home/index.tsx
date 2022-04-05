@@ -64,7 +64,7 @@ const Home = () => {
               {t('NFT Market')}
             </Heading>
             <Heading scale="lg" color="text">
-              {t('Buy and Sell NFTs on Binance Smart Chain')}
+              {t('Buy and Sell NFTs on TetherMoon Testnet')}
             </Heading>
             {account && (
               <Button as={Link} to={`${nftsBaseUrl}/profile/${account.toLowerCase()}`} mt="32px">
