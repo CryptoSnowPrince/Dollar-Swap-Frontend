@@ -22,7 +22,7 @@ const bscConnector = new BscConnector({ supportedChainIds: [chainId] })
 export const connectorsByName: { [connectorName in ConnectorNames]: any } = {
   [ConnectorNames.Injected]: injected,
   [ConnectorNames.WalletConnect]: walletconnect,
-  [ConnectorNames.TetherMoon]: bscConnector,
+  [ConnectorNames.BSC]: bscConnector,
 }
 
 export const getLibrary = (provider): ethers.providers.Web3Provider => {

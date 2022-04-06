@@ -23,7 +23,7 @@ const useEagerConnect = () => {
     const connectorId = window.localStorage.getItem(connectorLocalStorageKey) as ConnectorNames
 
     if (connectorId) {
-      const isConnectorBinanceChain = connectorId === ConnectorNames.TetherMoon
+      const isConnectorBinanceChain = connectorId === ConnectorNames.BSC
       const isBinanceChainDefined = Reflect.has(window, 'BinanceChain')
 
       // Currently TetherMoon extension doesn't always inject in time.
