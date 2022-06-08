@@ -17,10 +17,10 @@ export const setupNetwork = async () => {
         params: [
           {
             chainId: `0x${chainId.toString(16)}`,
-            chainName: 'TetherMoon Testnet',
+            chainName: 'Roburna',
             nativeCurrency: {
-              name: 'TRM',
-              symbol: 'TRM',
+              name: 'RBA',
+              symbol: 'RBA',
               decimals: 18,
             },
             rpcUrls: nodes,
