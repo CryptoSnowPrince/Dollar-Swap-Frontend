@@ -11,9 +11,9 @@ export const BSC_BLOCK_TIME = 3
 
 export const BASE_BSC_SCAN_URLS = {
   // [ChainId.MAINNET]: 'https://bscscan.com',
-  [ChainId.MAINNET]: 'https://explorer.tethermoon.io',
+  [ChainId.MAINNET]: 'https://rbascan.com/',
   // [ChainId.TESTNET]: 'https://testnet.bscscan.com',
-  [ChainId.TESTNET]: 'https://explorer.tethermoon.io',
+  [ChainId.TESTNET]: 'https://rbascan.com/',
 }
 
 // CAKE_PER_BLOCK details
