@@ -34,7 +34,7 @@ export const setupNetwork = async () => {
       return false
     }
   } else {
-    console.error("Can't setup the TetheMoon network on metamask because window.ethereum is undefined")
+    console.error("Can't setup the Roburna network on metamask because window.ethereum is undefined")
     return false
   }
 }
