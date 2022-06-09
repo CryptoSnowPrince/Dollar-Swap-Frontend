@@ -173,6 +173,11 @@ export function useDerivedSwapInfo(): {
     [Field.OUTPUT]: { currencyId: outputCurrencyId },
     recipient,
   } = useSwapState()
+  // TG+
+  // console.log("pass independentField: ", independentField);
+  // console.log("pass typedValue: ", typedValue);
+  // console.log("pass recipient: ", recipient);
+  // console.log("pass useSwapState: ", useSwapState());
 
   const inputCurrency = useCurrency(inputCurrencyId)
   const outputCurrency = useCurrency(outputCurrencyId)
